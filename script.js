@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  /*let newObject = {
      name: "John Doe",
      display: function () {
@@ -61,3 +62,10 @@ console.log(b);
 // falsy values
 
 // 0 '' NaN undefined null 
+=======
+let name ="John Doe";
+let age = 25;
+let price = 150.25;
+let isStudent = false;
+console.log(name);
+>>>>>>> 951fcbe19b806a174f6863606b14b3ee5037cb98
